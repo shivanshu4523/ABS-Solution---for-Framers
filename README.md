@@ -1,4 +1,4 @@
-# Sahaay - Farmer's One Stop Solution
+# ABS Solutions - Farmer's One Stop Solution
 
 ## Description
 A software platform designed to assist farmers in making informed decisions and improving their farming practices. The platform utilizes modern technologies to provide real-time updates on weather forecasts, government schemes, seed information, fertilizer details, and technological advancements such as solar panels. 
@@ -34,7 +34,7 @@ Ensure you have the following installed on your machine:
 Open a terminal and run the following command to clone the repository:
 
     ```bash
-    git clone https://github.com/sh3yash/Sahaay.git
+    git clone https://github.com/shivanshu4523/ABS-Solutions.git
 
 ## Usage
 
